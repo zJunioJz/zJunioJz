@@ -1,4 +1,4 @@
-# Hello World, I'm Jefferson, be very welcome
+# Hello World, I'm Jefferson Junio, be very welcome
 
 <div>
   <a href="https://github.com/zJunioJz">
@@ -10,7 +10,7 @@
   <img align="center" alt="Junio-Java" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Junio-C++" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Junio-Python" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Junio-Python" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Junio-Mysql" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
   ##
@@ -21,5 +21,5 @@
   <a href = "https://www.facebook.com/jefferson.junior.79827803"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href = "mailto:junioj253@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 
-  ![Snake animation](https://github.com/zJunioJz/zJunioJz/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/zJunioJz/zJunioJz/blob/output/github-contribution-grid-snake.svg)
 </div>
