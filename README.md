@@ -12,7 +12,7 @@
 </div>
 
 <div align="center"> 
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Social Media</h1>
     <a href = "mailto: junioj253@gmail.com">
       <img width="35" src="gmail.svg">
     </a>
