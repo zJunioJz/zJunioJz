@@ -11,38 +11,50 @@
   </a>
 </div>
 
+<div align="center">
+  <h3 align="center">Main Skills:</h3>
+  <img align="center" alt="Junio-Java" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Junio-C++" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Junio-SQL" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+##
+
+<div align="center">
+  <h3 align="center">Studying in this moment:</h3>
+  <img alt="Junio-React-Native" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Junio-JavaScript" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="Junio-SQLite" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <img alt="Junio-HTML" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Junio-CSS" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Junio-Bootstrap" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+</div>
+
+##
+
+<div align="center">
+  <h3 align="center">IDEs I Use:</h3>
+  <img alt="Junio-VSCode" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="Junio-IntelliJ" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img alt="Junio-Dev-C++" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img alt="Junio-MySQL-Workbench" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
 <div align="center"> 
   <h1 align="center">Social Media</h1>
     <a href = "mailto: junioj253@gmail.com">
-      <img width="35" src="gmail.svg">
+      <img width="40" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/jefferson-araujo-474725279">
-      <img width="28" src="linkedin.svg">
+      <img width="31" src="linkedin.svg">
     </a>
     <a href = "https://www.facebook.com/jefferson.junior.79827803">
-      <img width="30" src="Facebook.svg">
+      <img width="32" src="Facebook.svg">
     </a>
     <a href = "https://www.instagram.com/_junioj_/">
-      <img width="30" src="instagram.png">
+      <img width="32" src="instagram.png">
     </a>
 </div>
-
-### Main skills:
-
-<div>
-  <img align="center" alt="Junio-Java" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Junio-C++" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
-
-### Studying in this moment:
-
-<div>
-  <img align="center" alt="Junio-Java" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Junio-Python" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Junio-Mysql" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-  ##
 
   <p align="center"> 
 
