@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CC&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Jefferson+Junio;I'm+22+years+old;I'm+from+Brazil;I'm+a+Computer+Science+Undergraduate+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CC&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Jefferson+Junio;I'm+23+years+old;I'm+from+Brazil;Bachelor's+degree+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zJunioJz&bg_color=0d1117&color=0000CC&line=0000CC&point=0000CC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -22,7 +22,6 @@
 
 <div align="center">
   <h3 align="center">Studying in this moment:</h3>
-  <img alt="Junio-React-Native" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Junio-JavaScript" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="Junio-SQLite" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img alt="Junio-HTML" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -47,9 +46,6 @@
     </a>
     <a href = "https://www.linkedin.com/in/jefferson-araujo-474725279">
       <img width="31" src="linkedin.svg">
-    </a>
-    <a href = "https://www.facebook.com/jefferson.junior.79827803">
-      <img width="32" src="Facebook.svg">
     </a>
     <a href = "https://www.instagram.com/_junioj_/">
       <img width="32" src="instagram.png">
