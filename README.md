@@ -1,19 +1,85 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CC&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0000FF,50:0057B8,100:FFA500&text=JEFFERSON%20JUNIO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CC&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Jefferson+Junio;I'm+23+years+old;I'm+from+Brazil;Bachelor's+degree+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=0000FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;BACKEND+DEVELOPMENT;JAVA+%7C+JAVASCRIPT+%7C+C%2B%2B;APIs+%7C+DATABASES+%7C+SOFTWARE+ENGINEERING;COMPUTER+SCIENCE+GRADUATE"/>
+</p>
+<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zJunioJz&bg_color=0d1117&color=0000CC&line=0000CC&point=0000CC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=zJunioJz&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=FFA500&border_color=0057B8&ring_color=0000FF&custom_title=My%20GitHub%20Statistics"
+    width="57%"
+    alt="GitHub Statistics"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=zJunioJz&layout=compact&custom_title=Stack&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=FFA500&border_color=0057B8&ring_color=0000FF"
+    width="33%"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## ⚙️ JUNIO // BACKEND INITIALIZED
+
+```bash
+╭────────────────────────────╮
+│     JUNIO SYSTEM v2.3     │
+╰────────────────────────────╯
+
+Initializing system...
+
+████████████████████ 100%
+
+✔ Developer detected
+✔ Creativity enabled
+✔ Code engine activated
+✔ Backend environment ready
+
+STATUS: ONLINE 🚀
+```
+## 👨‍💻 About Me
+
+```javascript
+const Junio = {
+
+  role: "Aspiring Backend Developer",
+
+  education: "Computer Science Graduate",
+
+  mainStack: [
+    "JavaScript",
+    "Java",
+    "C++",
+    "SQL"
+  ],
+
+  currentlyStudying: [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+
+  focus: [
+    "Backend Development",
+    "REST APIs",
+    "Databases",
+    "Software Engineering"
+  ],
+
+  goal:
+    "Building solid backend systems and growing as a developer."
+
+}
+```
+
 
 <div align="center">
-  <a href="https://github.com/zJunioJz">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zJunioJz&show_icons=true&count_private=true&hide_border=true&title_color=0000CC&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Jefferson Junio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zJunioJz&layout=compact&hide_border=true&title_color=0000CC&text_color=ff91a4&bg_color=0d1117" />
-  </a>
-</div>
-
-<div align="center">
-  <h3 align="center">Main Skills:</h3>
+  <h3 align="center">🛠️ Main Skills</h3>
   <img align="center" alt="Junio-Java" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Junio-JavaScript" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Junio-C++" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Junio-SQL" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
@@ -21,35 +87,44 @@
 ##
 
 <div align="center">
-  <h3 align="center">Studying in this moment:</h3>
-  <img alt="Junio-JavaScript" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="Junio-SQLite" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img alt="Junio-HTML" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Junio-CSS" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Junio-Bootstrap" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+
+  <h3 align="center">🧠 Currently Studying</h3>
+
+  <img alt="JavaScript" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="Node.js" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Express" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img alt="MySQL" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="MongoDB" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+
+</div>
+
+##
+
+
+<div align="center">
+  <h3 align="center">💻 IDEs I Use</h3>
+  <img alt="Junio-VSCode" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="Junio-IntelliJ" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img alt="Junio-MySQL-Workbench" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##
 
 <div align="center">
-  <h3 align="center">IDEs I Use:</h3>
-  <img alt="Junio-VSCode" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img alt="Junio-IntelliJ" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img alt="Junio-Dev-C++" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Junio-MySQL-Workbench" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+  <h3>🌎 Connect With Me</h3>
 
-<div align="center"> 
-  <h1 align="center">Social Media</h1>
-    <a href = "mailto: junioj253@gmail.com">
-      <img width="40" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/jefferson-araujo-474725279">
-      <img width="31" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/_junioj_/">
-      <img width="32" src="instagram.png">
-    </a>
+  <a href="mailto:junioj253@gmail.com">
+    <img width="55" src="gmail.svg">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jefferson-araujo-474725279">
+    <img width="45" src="linkedin.svg">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_junioj_/">
+    <img width="45" src="instagram.png">
+  </a>
 </div>
 
   <p align="center"> 
@@ -57,5 +132,5 @@
   ![Snake animation](https://github.com/zJunioJz/zJunioJz/blob/output/github-contribution-grid-snake.svg)
  </p>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CC&height=120&section=footer"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0000FF,50:0057B8,100:FFA500"/>
 
